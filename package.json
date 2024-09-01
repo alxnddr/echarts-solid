@@ -52,31 +52,31 @@
     "update-deps": "pnpm up -Li"
   },
   "dependencies": {
-    "@solid-primitives/refs": "^1.0.5",
-    "@solid-primitives/resize-observer": "^2.0.22"
+    "@solid-primitives/refs": "^1.0.8",
+    "@solid-primitives/resize-observer": "^2.0.26"
   },
   "peerDependencies": {
-    "echarts": "^5.4.3",
-    "solid-js": "^1.6.0"
+    "echarts": "^5.5.1",
+    "solid-js": "^1.8.22"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.1.0",
-    "@typescript-eslint/parser": "^6.1.0",
-    "concurrently": "^8.2.0",
-    "esbuild": "^0.18.15",
-    "esbuild-plugin-solid": "^0.5.0",
-    "eslint": "^8.45.0",
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
+    "@typescript-eslint/parser": "^8.3.0",
+    "concurrently": "^8.2.2",
+    "esbuild": "^0.23.1",
+    "esbuild-plugin-solid": "^0.6.0",
+    "eslint": "^9.9.1",
     "eslint-plugin-eslint-comments": "^3.2.0",
-    "eslint-plugin-no-only-tests": "^3.1.0",
-    "jsdom": "^22.1.0",
-    "prettier": "3.0.0",
-    "solid-js": "^1.7.8",
-    "tsup": "^7.1.0",
-    "tsup-preset-solid": "^2.0.1",
-    "typescript": "^5.1.6",
-    "vite": "^4.4.6",
-    "vite-plugin-solid": "^2.7.0",
-    "vitest": "^0.33.0"
+    "eslint-plugin-no-only-tests": "^3.3.0",
+    "jsdom": "^25.0.0",
+    "prettier": "3.3.3",
+    "solid-js": "^1.8.22",
+    "tsup": "^8.2.4",
+    "tsup-preset-solid": "^2.2.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2",
+    "vite-plugin-solid": "^2.10.2",
+    "vitest": "^2.0.5"
   },
   "keywords": [
     "solid"
